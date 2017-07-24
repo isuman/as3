@@ -128,7 +128,7 @@ export default class as3 extends Component {
               {this.state.weather2}
             </Text>
             <Image source={{ uri: 'http://' + this.state.icon2, isStatic: true }}
-              style={{ width: 75, height: 50 }} resizeMode='cover'>
+              style={{ width: 37.5, height: 25 }} resizeMode='cover'>
             </Image>
             <Text>
               {this.state.description2}
@@ -145,7 +145,7 @@ export default class as3 extends Component {
               {this.state.weather3}
             </Text>
             <Image source={{ uri: 'http://' + this.state.icon3, isStatic: true }}
-              style={{ width: 75, height: 50 }} resizeMode='cover'>
+              style={{ width: 37.5, height: 25 }} resizeMode='cover'>
             </Image>
             <Text>
               {this.state.description3}
@@ -162,7 +162,7 @@ export default class as3 extends Component {
               {this.state.weather4}
             </Text>
             <Image source={{ uri: 'http://' + this.state.icon4, isStatic: true }}
-              style={{ width: 75, height: 50 }} resizeMode='cover'>
+              style={{ width: 37.5, height: 25 }} resizeMode='cover'>
             </Image>
             <Text>
               {this.state.description4}
@@ -179,7 +179,7 @@ export default class as3 extends Component {
               {this.state.weather5}
             </Text>
             <Image source={{ uri: 'http://' + this.state.icon5, isStatic: true }}
-              style={{ width: 75, height: 50 }} resizeMode='cover'>
+              style={{ width: 37.5, height: 25 }} resizeMode='cover'>
             </Image>
             <Text>
               {this.state.description5}
